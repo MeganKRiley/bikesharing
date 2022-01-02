@@ -41,3 +41,5 @@ The top ending points for NY Citibikes occur in very similar areas as the starti
 
 ## Summary
 These results continue to point to a few key points - men are renting more bikes than women, but both men and women follow the same trends as far as day of the week and hour of the day of renting, more users have subscriptions than don't, and most users are renting during the typical workday commute hours. In addition to the following graphics, I would be interested in looking at what the most popular routes are.  This would help to find trends in how users are utilizing the bikes.  Are they driving some of their commute, parking in a garage and then finishing on a bike, or do most of our downtown users already live in the downtown area? This would help us know whether NY's downtown workforce demographic is comparable to Des Moines.  I'd also be interested in viewing a breakdown of August's peak hours by user type.  This will continue to show us how users are utilizing bikes. 
+
+[link to dashboard]https://public.tableau.com/app/profile/megan.riley/viz/NYCCitibikeData_16411597285400/NYCCitibikeData?publish=yes
